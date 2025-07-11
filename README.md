@@ -1,6 +1,7 @@
 # react-images-viewer
 
-[![Build Status](https://travis-ci.org/guonanci/react-images-viewer.svg?branch=master)](https://travis-ci.org/guonanci/react-images-viewer)
+[![Build Status](https://travis-ci.org/guonanci/react-ima![2024-01-15_591F2680-1ED1-4DA1-B495-59C0BD738444-main](https://github.com/user-attachments/assets/7e2d7662-cc57-41ad-a45f-414400f333fe)
+ges-viewer.svg?branch=master)](https://travis-ci.org/guonanci/react-images-viewer)
 
 <!-- [![Coverage Status](https://coveralls.io/repos/github/guonanci/react-images-viewer/badge.svg?branch=master)](https://coveralls.io/github/guonanci/react-images-viewer?branch=master) -->
 
